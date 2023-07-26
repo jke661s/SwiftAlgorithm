@@ -1,6 +1,7 @@
 import Foundation
 
-//LeetCode 26 - Remove Duplicates from Sorted Array
+// LeetCode 26 - Remove Duplicates from Sorted Array
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 // Hint: Two pointers
 func removeDuplicates(_ nums: inout [Int]) -> Int {
